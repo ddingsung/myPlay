@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-dbcp-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../dist/lib/commons-dbcp-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../dist/lib/commons-pool-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../dist/lib/ini4j-0.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../dist/lib/mail-1.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../dist/lib/mysql-connector-java-5.1.42-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../dist/lib/rhino-1.7.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../dist/lib/rhino-js-engine-1.7.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

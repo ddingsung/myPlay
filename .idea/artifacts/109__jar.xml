@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="109 리플렉스:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/109__jar</output-path>
+    <root id="archive" name="109 리플렉스.jar">
+      <element id="module-output" name="109 리플렉스" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/lib/commons-dbcp-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/lib/commons-pool-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/lib/ini4j-0.5.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/lib/mail-1.4.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/lib/mysql-connector-java-5.1.42-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/lib/rhino-1.7.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/lib/rhino-js-engine-1.7.7.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
